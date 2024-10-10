@@ -1,6 +1,6 @@
 **Web Site Giriş**
 
-Web Site Giriş Projesi, kullanıcıların kayıt olabileceği ve giriş yapabileceği şık bir web uygulamasıdır. HTML ve CSS ile tasarlanmıştır ve kullanıcı arayüzü modern simgelerle zenginleştirilmiştir.
+Web Site Giriş Projesi, kullanıcıların kayıt olabileceği ve giriş yapabileceği şık bir web uygulamasıdır. HTML ve CSS ile tasarlanmıştır.
 
 ✨ **Özellikler:**
 
